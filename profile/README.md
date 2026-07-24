@@ -12,5 +12,4 @@
 
 ## 📚 Documentation & Wiki
 
-Check out our full documentation and website here:
-👉 **[tma-cloud.github.io/TMA](https://tma-cloud.github.io/TMA/)**
+Check out our full documentation and website here: **[tma-cloud.github.io/Wiki](https://tma-cloud.github.io/Wiki/)**
