@@ -4,7 +4,7 @@
   <h1>Welcome to TMA Cloud</h1>
 
   <p>
-    <b>We are building a modern, self-hosted cloud storage platform.</b>
+    <b>Self-hosted cloud storage written in Rust.</b>
   </p>
 
   <p>

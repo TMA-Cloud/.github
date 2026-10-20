@@ -43,6 +43,21 @@ We agree to restrict the following behaviors in our community. Instances, threat
 
 This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public or other spaces. Examples of representing our community include using an official email address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
 
+## Reporting an Issue
+
+If you see or experience behavior that breaks this Code of Conduct, email [zidan@tma.bd](mailto:zidan@tma.bd). Reports are read by the maintainers and kept confidential. Include what happened, where (a link if there is one), and who was involved.
+
+## Addressing and Repairing Harm
+
+The maintainers review each report and respond in proportion to the harm done, using these steps:
+
+1. **Warning.** A private, written note that explains what was wrong and asks for it to stop.
+2. **Temporarily limited activities.** No interaction with the people involved, or in a given space, for a set time.
+3. **Temporary suspension.** No participation in community spaces for a set time.
+4. **Permanent ban.** No further participation, for repeated or serious violations.
+
+The person reported is told which step applies and why, and may reply before a suspension or ban takes effect.
+
 ## Attribution
 
 This Code of Conduct is adapted from the Contributor Covenant, version 3.0, permanently available at [https://www.contributor-covenant.org/version/3/0/](https://www.contributor-covenant.org/version/3/0/).
